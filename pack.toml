@@ -1,0 +1,16 @@
+name = "QueerTearMC"
+author = "Taya_Valentine"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e10cec5334d5b212fbf19078b3e3a8b095370404f43969f35edb3abd0101d709"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.26.4-beta.1"
+
+[options]
+acceptable-game-versions = ["1.21"]
