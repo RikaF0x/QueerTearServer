@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "cmd.bat"
+hash = "88ead9c8569e98b860312d04a00aaaf7176559acae8fd7bcc9fa46c8139a039e"
+
+[[files]]
 file = "mods/ae2.pw.toml"
-hash = "30f6a07aacfc0b9a5038a3e5261f231e81af3b6388cf473c87f978f4e2fb9347"
+hash = "c74b4c8c144457a79943f2f1d9e21e44bc07bc9026aa0d5e0fa3447d7c5d9590"
 metafile = true
 
 [[files]]
@@ -28,6 +32,11 @@ metafile = true
 [[files]]
 file = "mods/botarium.pw.toml"
 hash = "d4b79652245914a4f376f13a0a11c12b624613be9df788e227572ee7f5281f6c"
+metafile = true
+
+[[files]]
+file = "mods/charm.pw.toml"
+hash = "e5a9f96b94726f4585cf91fa0ddbd81e353f85f6f6723a2b4f01bf05c8dfd4a8"
 metafile = true
 
 [[files]]
@@ -86,6 +95,11 @@ hash = "537931e9e7e54fb0801417349b9f0f99824811f1a4c54ed94764f6853a5393b1"
 metafile = true
 
 [[files]]
+file = "mods/ironchests.pw.toml"
+hash = "3d7a6e5c73f9292286f772025984f3e039ed6eb31b3326c4b77edf221e6ee3fe"
+metafile = true
+
+[[files]]
 file = "mods/libjf.pw.toml"
 hash = "fd1b685219022148a51b5834f9c424a148025ef673ce50c935c2388e08d0040a"
 metafile = true
@@ -103,6 +117,11 @@ metafile = true
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "db2ef0d18557d56570c504142912af0d519814bf047165aa04bf24bddf026fdc"
+metafile = true
+
+[[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "22a206c019b90be7f15dbf7efeacdb74a7cbc58d5eea84650e80b54f828acb0b"
 metafile = true
 
 [[files]]
@@ -144,3 +163,11 @@ metafile = true
 file = "mods/trinkets.pw.toml"
 hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
 metafile = true
+
+[[files]]
+file = "qfapi-7.6.0_qsl-6.2.0_fapi-0.92.2_mc-1.20.1.jar"
+hash = "168074edb89733449e4c9ffad28abaf7a1ccdf6f7d3717b0786c4df07cb5a808"
+
+[[files]]
+file = "Новый текстовый документ.txt"
+hash = "88ead9c8569e98b860312d04a00aaaf7176559acae8fd7bcc9fa46c8139a039e"
