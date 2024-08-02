@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "cmd.bat"
-hash = "88ead9c8569e98b860312d04a00aaaf7176559acae8fd7bcc9fa46c8139a039e"
-
-[[files]]
 file = "mods/ae2.pw.toml"
 hash = "c74b4c8c144457a79943f2f1d9e21e44bc07bc9026aa0d5e0fa3447d7c5d9590"
 metafile = true
@@ -167,7 +163,3 @@ metafile = true
 [[files]]
 file = "qfapi-7.6.0_qsl-6.2.0_fapi-0.92.2_mc-1.20.1.jar"
 hash = "168074edb89733449e4c9ffad28abaf7a1ccdf6f7d3717b0786c4df07cb5a808"
-
-[[files]]
-file = "Новый текстовый документ.txt"
-hash = "88ead9c8569e98b860312d04a00aaaf7176559acae8fd7bcc9fa46c8139a039e"
