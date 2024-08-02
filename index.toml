@@ -1,12 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "cmd.bat"
-hash = "88ead9c8569e98b860312d04a00aaaf7176559acae8fd7bcc9fa46c8139a039e"
-
-[[files]]
 file = "mods/ae2.pw.toml"
-hash = "f59aa35a3ca7651d0612543820e80972da0b9abf0094ecb414b76da9a8d4c11b"
+hash = "30f6a07aacfc0b9a5038a3e5261f231e81af3b6388cf473c87f978f4e2fb9347"
 metafile = true
 
 [[files]]
@@ -42,16 +38,6 @@ metafile = true
 [[files]]
 file = "mods/create-enchantment-industry-fabric.pw.toml"
 hash = "da0b1e65c3bb9f9eabfbaf4242b3adf22267752adb3824fe62b24077cf458340"
-metafile = true
-
-[[files]]
-file = "mods/create-fabric-fixes.pw.toml"
-hash = "ee1edb0270653337b55cefd619d55458d6e1d4cb8fd182aa18db0e1cb3a33d1c"
-metafile = true
-
-[[files]]
-file = "mods/create-fabric-sodium-fix.pw.toml"
-hash = "0dc9fad2f8048eab5f3ba5d1ee71884046fea3de7e8432df5d1ab66b6e084c85"
 metafile = true
 
 [[files]]
@@ -158,11 +144,3 @@ metafile = true
 file = "mods/trinkets.pw.toml"
 hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
 metafile = true
-
-[[files]]
-file = "qfapi-7.6.0_qsl-6.2.0_fapi-0.92.2_mc-1.20.1.jar"
-hash = "168074edb89733449e4c9ffad28abaf7a1ccdf6f7d3717b0786c4df07cb5a808"
-
-[[files]]
-file = "Новый текстовый документ.txt"
-hash = "88ead9c8569e98b860312d04a00aaaf7176559acae8fd7bcc9fa46c8139a039e"
