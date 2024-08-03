@@ -1,0 +1,13 @@
+name = "Create: Coins Arise"
+filename = "coins_arise-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/E3j7uXh3/versions/yMF1xNuh/coins_arise-1.0.2.jar"
+hash-format = "sha1"
+hash = "29920faacc5ef9719c8f93c0ee58fc3799066ef7"
+
+[update]
+[update.modrinth]
+mod-id = "E3j7uXh3"
+version = "yMF1xNuh"

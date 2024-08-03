@@ -1,0 +1,13 @@
+name = "Create: Fastfood"
+filename = "createfastfood-0.3-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eAKlqy1K/versions/I908Etmb/createfastfood-0.3-fabric.jar"
+hash-format = "sha1"
+hash = "944a09c66789d57b39ddb697539882473a1c5a4c"
+
+[update]
+[update.modrinth]
+mod-id = "eAKlqy1K"
+version = "I908Etmb"
