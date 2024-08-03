@@ -51,8 +51,18 @@ hash = "d4b79652245914a4f376f13a0a11c12b624613be9df788e227572ee7f5281f6c"
 metafile = true
 
 [[files]]
+file = "mods/brewin-and-chewin-fabric.pw.toml"
+hash = "dda8e3884776546230530725d76d00189b1067ef3ce4ff66158d72822aa9dd1f"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "4c712d7ad6d2ddb130b845c3b2c660be7cb7795db21be00b130443730719305e"
+metafile = true
+
+[[files]]
+file = "mods/chefs-delight.pw.toml"
+hash = "9c165d9011d59231aedd5ae90da51ffddc8a3e9ec77779a0050d400b097633f4"
 metafile = true
 
 [[files]]
@@ -73,6 +83,16 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "acbde04e67f2f0970a6b81e3c818a5f8ed3eceab4f3a04330d80c70c24d03afe"
+metafile = true
+
+[[files]]
+file = "mods/corn-delight-fabric.pw.toml"
+hash = "241b3fbc302d617ddb95fd47ac8e609b458a5472753c5ac49bcab306f4ac864a"
+metafile = true
+
+[[files]]
+file = "mods/crate-delight.pw.toml"
+hash = "98711cfbb6a91b0bd526725efa98335e281b656c58040f72d3e0dc322a112283"
 metafile = true
 
 [[files]]
@@ -106,8 +126,18 @@ hash = "d7efd7d686ed6465c3eb2a71a5be177876a774388fbb31804c29f3c55141b8df"
 metafile = true
 
 [[files]]
+file = "mods/cultural-delights-fabric.pw.toml"
+hash = "a36c65979c1ad3234d90a43ddd20f534b9c6d72a33f59b5a346dbe54435b8bc6"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
+metafile = true
+
+[[files]]
+file = "mods/delightful-creators-fabric.pw.toml"
+hash = "2669ee304ddaa3bc3879c25147b12fa382b6baa1cc75153639d33d8f954b9f83"
 metafile = true
 
 [[files]]
@@ -146,6 +176,16 @@ hash = "f9669389791dae261bd6727ea8101d67c39ce6c385fe7341a469b0a59c0b745c"
 metafile = true
 
 [[files]]
+file = "mods/every-compat.pw.toml"
+hash = "6f33e7987c00191a7290c2c541ff3c82be88d1a826f1749d523a1471a602cf21"
+metafile = true
+
+[[files]]
+file = "mods/expanded-delight.pw.toml"
+hash = "4d013214266c48b8853463e428949881aa97c06684284dcb508a1932ab7c3593"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
 metafile = true
@@ -171,8 +211,28 @@ hash = "bd5311680997fada18e6492a91770fdc0762c718b3109820d67c1b019c2f1bf8"
 metafile = true
 
 [[files]]
+file = "mods/farmers-addons.pw.toml"
+hash = "3f549e1c673e1816cfdd414c9cccdcb6559f61e2811ce97efd18cf8e09a81ef8"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-expansion.pw.toml"
+hash = "c0e1d11ad52b0fb88617f0380d0e340dc1d0d0962c8f000bbad559441e8ad222"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "72cc5d492b49c72c87da9629cd51e7240abae422784fef925872a0d4187c4932"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "2bd34b05c6028e28476426b00166378845aac5c0cbbcadf72f94d31f7754ab67"
+metafile = true
+
+[[files]]
+file = "mods/farmers-knives.pw.toml"
+hash = "4e186b045f50afe1e19198bbd79b6e32219312a7565fd48f077d3c08ffe20996"
 metafile = true
 
 [[files]]
@@ -201,6 +261,11 @@ hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "c9f4a8f985932269b8c9159c320929f81216f7197c2909c24c1498346f371b32"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "41a3116f5642d40ed54efda3f863373fa4d3c0c3a24a447a38c8a106e9fbb079"
 metafile = true
@@ -208,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/ironchests.pw.toml"
 hash = "3d7a6e5c73f9292286f772025984f3e039ed6eb31b3326c4b77edf221e6ee3fe"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "2516da6e994384dc1087e972510efdb88502b19bf141c5b86212a4b0655ddbfc"
 metafile = true
 
 [[files]]
@@ -223,6 +293,11 @@ metafile = true
 [[files]]
 file = "mods/language-reload.pw.toml"
 hash = "863c7625ed377ba905368ec8cb50a29d2ad23c833b50d7808f933aecbe1bcad4"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "3de6db38b0870f8bc8c61b2698d4b64ac1610b9066536be1b22b3a8257ab73fe"
 metafile = true
 
 [[files]]
@@ -263,6 +338,16 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "bbc45f671b446c7c341775e6f30f6585f8c519fc41308e834ded56e4d1c03f88"
+metafile = true
+
+[[files]]
+file = "mods/more-delight.pw.toml"
+hash = "672ed4c751ebc1dfd02ab07da49457b346e90df38fa73fcba9ac6dff41c96114"
 metafile = true
 
 [[files]]
@@ -311,6 +396,11 @@ hash = "a6e087aa1beacb72cbfd77e442c78329b8a3c8af71cd3833078ff4cc7186d64f"
 metafile = true
 
 [[files]]
+file = "mods/qkl.pw.toml"
+hash = "47217cc1489533f668d622f2078351a61873be573311a9a94be7293328a849a7"
+metafile = true
+
+[[files]]
 file = "mods/qsl.pw.toml"
 hash = "9e9da779b67e9a944da81e921ff76c3388dfe9a475a3ff4f597b27af814cd28a"
 metafile = true
@@ -346,6 +436,11 @@ hash = "97e82bdfb6735a8eed7f0a4727290d7cc2d3f7b2d4bf2d6a5ff4c7e34fea9513"
 metafile = true
 
 [[files]]
+file = "mods/smarter-farmers-farmers-replant.pw.toml"
+hash = "b8bc887f9e1b8c535d924b9dc4d43025767ceba74b008a20c966358209ed0e65"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "4e691c86059e755a026b8cae8cf0c66396dc39bf47b6c71980589101803ecd36"
 metafile = true
@@ -358,6 +453,11 @@ metafile = true
 [[files]]
 file = "mods/spice-of-fabric.pw.toml"
 hash = "6fbcbd33edab029f2bdab8c4086d8eaefc1898d3e6f3ede884f890e4f17e93b0"
+metafile = true
+
+[[files]]
+file = "mods/storage-delight.pw.toml"
+hash = "d1ff3f2314600a2d9c32f7020bc5ac6a92783d20087b77e609d03f38668dfc00"
 metafile = true
 
 [[files]]

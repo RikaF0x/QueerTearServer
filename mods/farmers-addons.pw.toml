@@ -1,0 +1,13 @@
+name = "Farmer's Addons"
+filename = "farmers_addons-mc1.20.1-v2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GgIopVQw/versions/wSWNGrm5/farmers_addons-mc1.20.1-v2.2.jar"
+hash-format = "sha1"
+hash = "e5ae7185cd6d841eb17a8b3d3771e07b0e0bce11"
+
+[update]
+[update.modrinth]
+mod-id = "GgIopVQw"
+version = "wSWNGrm5"
