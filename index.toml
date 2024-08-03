@@ -389,8 +389,3 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "6e3c46cc7523df95fefba675b177ff0abfda3b72c893add5ce64390ad137ab8f"
 metafile = true
-
-[[files]]
-file = "resourcepacks/biomeso-plenty-renewed.pw.toml"
-hash = "82651e5c8b436fc858b70d6b1c710fa3afdb11b8c2f37049e190a6a0db17aced"
-metafile = true
