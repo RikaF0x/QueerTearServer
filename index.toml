@@ -131,18 +131,8 @@ hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
 
 [[files]]
-file = "mods/entity-model-features.pw.toml"
-hash = "c34d7228915013f3946f0943079644a44f653b9a378d129d733db249a790bed0"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "9f499eff7ddb9eeab719f19808cbcf41f2b77d06ebf946f157cf7b5f52f64e70"
-metafile = true
-
-[[files]]
-file = "mods/entitytexturefeatures.pw.toml"
-hash = "b596d10a9b700d570d729f2f04b892d1a7715c5af434a998dc0c15a7596b05d7"
 metafile = true
 
 [[files]]
@@ -213,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/ironchests.pw.toml"
 hash = "3d7a6e5c73f9292286f772025984f3e039ed6eb31b3326c4b77edf221e6ee3fe"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
 
 [[files]]
