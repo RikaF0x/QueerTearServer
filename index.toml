@@ -181,11 +181,6 @@ hash = "29441fd308425c08493976be5282ed60513a0514c72a32717dac202b223994d9"
 metafile = true
 
 [[files]]
-file = "mods/create-framed.pw.toml"
-hash = "06ffe09b286f4833c92d060393fff6de101a249b7e112e149892947d699a6012"
-metafile = true
-
-[[files]]
 file = "mods/create-garnished.pw.toml"
 hash = "96c33412dd1ecc6b280019549987facfda77789975920e714ecff00c5963efcb"
 metafile = true
@@ -231,18 +226,8 @@ hash = "e25a9439cd57c1af53a62c6f8703934911a561f38330e5acfb482a82ab09a404"
 metafile = true
 
 [[files]]
-file = "mods/create-origins.pw.toml"
-hash = "98b41adf822f00af6c0caef0f47efc112003bcc1784fd58b7a25c42735f32a59"
-metafile = true
-
-[[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "76cc1ad2fc58c6e28f25c47dd5012098f797e1363d5661f264bf3fbaa5c1cbc5"
-metafile = true
-
-[[files]]
-file = "mods/create-sandpaper-overhaul.pw.toml"
-hash = "51e80e47509bba424734b1c5b0bdfaa32817984e4adc1f3af7b25a5113064419"
 metafile = true
 
 [[files]]
