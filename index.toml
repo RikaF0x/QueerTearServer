@@ -71,9 +71,13 @@ hash = "4c712d7ad6d2ddb130b845c3b2c660be7cb7795db21be00b130443730719305e"
 metafile = true
 
 [[files]]
-file = "mods/chefs-delight.pw.toml"
-hash = "9c165d9011d59231aedd5ae90da51ffddc8a3e9ec77779a0050d400b097633f4"
+file = "mods/clover.pw.toml"
+hash = "36fa366c12eb61c2db87d46ecac62f89305bb38efc7fc901dbb9f59f1b6f14f6"
 metafile = true
+
+[[files]]
+file = "mods/coins_arise-1.0.2.jar"
+hash = "e628e09f8655785f225e35c177cff6e5fafc34ca9a902bb67b03042e3d1f2bc2"
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
