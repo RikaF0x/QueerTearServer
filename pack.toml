@@ -1,6 +1,4 @@
-name = "QueerTearMC"
-author = "Queer Tear"
-version = "dev0"
+name = "QueerTear"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +7,6 @@ hash-format = "sha256"
 hash = "031ca66b6d8951a04d71c7b645a124b821061f19f0aa9b0cb48e5b037ba297e2"
 
 [versions]
+fabric = "0.15.11"
 minecraft = "1.20.1"
 quilt = "0.26.4-beta.1"
