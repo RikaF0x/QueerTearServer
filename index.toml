@@ -86,9 +86,8 @@ hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
-file = "mods/clover.pw.toml"
-hash = "36fa366c12eb61c2db87d46ecac62f89305bb38efc7fc901dbb9f59f1b6f14f6"
-metafile = true
+file = "mods/clover-2024.0714.jar"
+hash = "e456cbafedf1353f7110cbbf526073bd036b3985f97f101fa574ba6daac7db8a"
 
 [[files]]
 file = "mods/coins-arise.pw.toml"
@@ -246,9 +245,20 @@ hash = "4fac0263f4d5e5b8810969b6a04b64ee2396cd42232fd16bcadf7e8e7ae96d90"
 metafile = true
 
 [[files]]
-file = "mods/create-structures.pw.toml"
-hash = "f0323722f66e5b288875294fb083404998a5891751e9460c1f4a4f44626bcc2c"
-metafile = true
+file = "mods/create-train-perspective-0.5.0+mc1.20.1.jar"
+hash = "24a43938319563b73a2e28493c5b35611e71e8730acf862297f474ddb4db8317"
+
+[[files]]
+file = "mods/create_high_pressure-1.1.0.jar"
+hash = "5e0e2080c9653f10710feefc057f61718ca1eb467be49a02e19074a124071db2"
+
+[[files]]
+file = "mods/create_interactive-1.0.3-beta.2+e045de2a48.jar"
+hash = "e18ff8428ccb8fb670171cd681c8878affe8d3b4699642e46a6c0e2f862197ce"
+
+[[files]]
+file = "mods/create_trimmed.jar"
+hash = "cf5104b5b6880ea9c9ec0e7d7fc4f1149dfcea8b052f839b86241c1558fe8675"
 
 [[files]]
 file = "mods/create-track-map.pw.toml"
@@ -556,8 +566,8 @@ hash = "e09b4e3348ee5e8b836e40ea4745bf3ab0d584512e31166ab34a219c437a736a"
 metafile = true
 
 [[files]]
-file = "mods/patchouli.pw.toml"
-hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
+file = "mods/origins.pw.toml"
+hash = "e09b4e3348ee5e8b836e40ea4745bf3ab0d584512e31166ab34a219c437a736a"
 metafile = true
 
 [[files]]
