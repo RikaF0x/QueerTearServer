@@ -250,6 +250,11 @@ hash = "4fac0263f4d5e5b8810969b6a04b64ee2396cd42232fd16bcadf7e8e7ae96d90"
 metafile = true
 
 [[files]]
+file = "mods/create-structures.pw.toml"
+hash = "f0323722f66e5b288875294fb083404998a5891751e9460c1f4a4f44626bcc2c"
+metafile = true
+
+[[files]]
 file = "mods/create-train-perspective-0.5.0+mc1.20.1.jar"
 hash = "24a43938319563b73a2e28493c5b35611e71e8730acf862297f474ddb4db8317"
 
