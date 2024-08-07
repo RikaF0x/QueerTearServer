@@ -259,6 +259,11 @@ file = "mods/create-train-perspective-0.5.0+mc1.20.1.jar"
 hash = "24a43938319563b73a2e28493c5b35611e71e8730acf862297f474ddb4db8317"
 
 [[files]]
+file = "mods/create-trimmed.pw.toml"
+hash = "650bb01ab2e62006652c079d212023a26db63baf6667537c139bec0f17ac44a6"
+metafile = true
+
+[[files]]
 file = "mods/create_high_pressure-1.1.0.jar"
 hash = "5e0e2080c9653f10710feefc057f61718ca1eb467be49a02e19074a124071db2"
 
