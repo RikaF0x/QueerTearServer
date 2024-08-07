@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "6f0676fe7167a5a5e992ac1588e5a7f62bb6ffcaad158d7f1ace220c73adb938"
+hash = "b3503cb0b7eae56e27e1d7980882795c0b81f4750ec9b140beb996a9d7c0dfb3"
 metafile = true
 
 [[files]]
@@ -696,8 +696,8 @@ hash = "e4ec2a3489da9a8cf2b16abfbca6d62ef3dd0c6112d16d939641c16c5a796bea"
 metafile = true
 
 [[files]]
-file = "mods/travelers-backpack-fabric.pw.toml"
-hash = "5c43f05a0ac7a9d72edb10bd0e91d1fe111605a7e37da10f503f9e7c28ca8855"
+file = "mods/travelersbackpack.pw.toml"
+hash = "2fd77b5be91e6e7ca940d8f0e448d3665078d429910927e414fcf5b6e3cb5167"
 metafile = true
 
 [[files]]
