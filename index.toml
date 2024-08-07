@@ -215,54 +215,8 @@ hash = "cbfa75e50c93f17359914fe71f6bd86aaa5efb947ab78669d2a16688a8cb8ae6"
 metafile = true
 
 [[files]]
-file = "mods/create-jetpack.pw.toml"
-hash = "93f8459ef551d239aba91b04529a2fa9bc8fe3630000e1478928e7900b4ae22c"
-metafile = true
-
-[[files]]
-file = "mods/create-let-the-adventure-begin.pw.toml"
-hash = "f53c28cef1fdbb538057291c80236894fc6b5c4dcfdb15ec94fc55c5a59aba53"
-metafile = true
-
-[[files]]
-file = "mods/create-metalwork.pw.toml"
-hash = "590818ff4010f70b44a9a742e1b52eb8daf2e84a04b8e8f918b1a23319144b34"
-metafile = true
-
-[[files]]
-file = "mods/create-molten-metals.pw.toml"
-hash = "a211e4e8e8955f09568c0c18c2966198b8ee5acd2e4fbe04e90668b282423ba7"
-metafile = true
-
-[[files]]
-file = "mods/create-new-age.pw.toml"
-hash = "246738f5a6bb9726299202fbe7a639ca214cf704e3ea6ca20414b9600c0a7412"
-metafile = true
-
-[[files]]
-file = "mods/create-ore-excavation.pw.toml"
-hash = "e25a9439cd57c1af53a62c6f8703934911a561f38330e5acfb482a82ab09a404"
-metafile = true
-
-[[files]]
-file = "mods/create-origins.pw.toml"
-hash = "98b41adf822f00af6c0caef0f47efc112003bcc1784fd58b7a25c42735f32a59"
-metafile = true
-
-[[files]]
-file = "mods/create-railways-navigator.pw.toml"
-hash = "76cc1ad2fc58c6e28f25c47dd5012098f797e1363d5661f264bf3fbaa5c1cbc5"
-metafile = true
-
-[[files]]
-file = "mods/create-sandpaper-overhaul.pw.toml"
-hash = "51e80e47509bba424734b1c5b0bdfaa32817984e4adc1f3af7b25a5113064419"
-metafile = true
-
-[[files]]
-file = "mods/create-steam-n-rails.pw.toml"
-hash = "4fac0263f4d5e5b8810969b6a04b64ee2396cd42232fd16bcadf7e8e7ae96d90"
-metafile = true
+file = "mods/create-structures-0.1.1-1.20.1-FABRIC.jar"
+hash = "3167a3a00232e115eab4afdab277e2d0c4d29c8bf68c77b57b5328cccb9db4f6"
 
 [[files]]
 file = "mods/create-structures.pw.toml"
