@@ -8,14 +8,14 @@ QueerTear community, hosters and contributors! 💜
 
 ## Branches
 
-|        | Stable |     Dev    |
+| ////// | Stable |     Dev    |
 | ------ | ------ | ---------- |
-| fabric | fabric | fabric-dev |
-| Quilt  | quilt  | quilt-dev  |
+| fabric | [fabric](../../tree/fabric) | [fabric-dev](../../tree/fabric-dev) |
+| **Quilt**  | [quilt](../../tree/quilt)  | [quilt-dev](../../tree/quilt-dev) |
 
 ## TODO
 
-- [ ] link branches in README.md/Branches
+- [X] link branches in [README.md#branches](github.com/RikaF0x/QueerTearServer/blob/main/README.md#branches)
 - [ ] Add WAILA
 - [ ] Add basic configs (Quilt Loading Screen ofc)
 - [ ] Add GregTech
