@@ -76,6 +76,11 @@ hash = "36fa366c12eb61c2db87d46ecac62f89305bb38efc7fc901dbb9f59f1b6f14f6"
 metafile = true
 
 [[files]]
+file = "mods/coins-arise.pw.toml"
+hash = "6e47eeaf80f263d54e42d72ed443cbf1bda22aaeb293de6f3ca2f9b51f0b681c"
+metafile = true
+
+[[files]]
 file = "mods/coins_arise-1.0.2.jar"
 hash = "e628e09f8655785f225e35c177cff6e5fafc34ca9a902bb67b03042e3d1f2bc2"
 
