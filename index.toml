@@ -452,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-control-tweaks.pw.toml"
-hash = "cfccef9ce1b5d619e740d1df6b6f12ebb69c6eb2c2d8123c26dfa0f5c6e9c9d3"
+hash = "3e10896dc43f1b51f96a73baa925be616cdbc0ebae147dec07e70d61f530a49e"
 metafile = true
 
 [[files]]
