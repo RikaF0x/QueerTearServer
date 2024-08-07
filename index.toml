@@ -421,18 +421,8 @@ hash = "b094e34df4e623024f47c4ed8ca41684f736c2e2c6d4f9504fa2660254e51d66"
 metafile = true
 
 [[files]]
-file = "mods/interiors.pw.toml"
-hash = "957fccf5d7bb580339b0ac2b8de2986415ef83fe297963e888e97d2063afefc3"
-metafile = true
-
-[[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "c9f4a8f985932269b8c9159c320929f81216f7197c2909c24c1498346f371b32"
-metafile = true
-
-[[files]]
-file = "mods/iris.pw.toml"
-hash = "41a3116f5642d40ed54efda3f863373fa4d3c0c3a24a447a38c8a106e9fbb079"
+file = "mods/inventory-control-tweaks.pw.toml"
+hash = "cfccef9ce1b5d619e740d1df6b6f12ebb69c6eb2c2d8123c26dfa0f5c6e9c9d3"
 metafile = true
 
 [[files]]
