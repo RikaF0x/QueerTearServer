@@ -1,13 +1,13 @@
 name = "DynRes"
-filename = "dynres-1.2.15.jar"
+filename = "dynres-1.2.10.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/v3lfX2LD/versions/xDfPpJ5h/dynres-1.2.15.jar"
+url = "https://cdn.modrinth.com/data/v3lfX2LD/versions/RmP2xcBw/dynres-1.2.10.jar"
 hash-format = "sha1"
-hash = "937f8bea5f7712b8e5f46a2d1d232e6fdecca2a2"
+hash = "6341822792f13cc4baf54fad50f6fd30273a4891"
 
 [update]
 [update.modrinth]
 mod-id = "v3lfX2LD"
-version = "xDfPpJ5h"
+version = "RmP2xcBw"
