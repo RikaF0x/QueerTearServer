@@ -663,53 +663,13 @@ hash = "b8bc887f9e1b8c535d924b9dc4d43025767ceba74b008a20c966358209ed0e65"
 metafile = true
 
 [[files]]
-file = "mods/sodium-extra.pw.toml"
-hash = "4e691c86059e755a026b8cae8cf0c66396dc39bf47b6c71980589101803ecd36"
-metafile = true
-
-[[files]]
-file = "mods/sodium.pw.toml"
-hash = "ab65093383a0eccec3f59fd2b36b66bdca51855538828085d1e91340d279f325"
-metafile = true
-
-[[files]]
-file = "mods/spice-of-fabric.pw.toml"
-hash = "6fbcbd33edab029f2bdab8c4086d8eaefc1898d3e6f3ede884f890e4f17e93b0"
-metafile = true
-
-[[files]]
-file = "mods/storage-delight.pw.toml"
-hash = "d1ff3f2314600a2d9c32f7020bc5ac6a92783d20087b77e609d03f38668dfc00"
-metafile = true
-
-[[files]]
-file = "mods/styledplayerlist.pw.toml"
-hash = "27c9ee50e624c436e1bb6fe4bbeff166f5c6564e9f9a846ffef22e54a200c603"
-metafile = true
-
-[[files]]
-file = "mods/spice-of-fabric.pw.toml"
-hash = "6fbcbd33edab029f2bdab8c4086d8eaefc1898d3e6f3ede884f890e4f17e93b0"
-metafile = true
-
-[[files]]
-file = "mods/styledplayerlist.pw.toml"
-hash = "27c9ee50e624c436e1bb6fe4bbeff166f5c6564e9f9a846ffef22e54a200c603"
-metafile = true
-
-[[files]]
-file = "mods/tab.pw.toml"
-hash = "8ce6580c7e5abe119565be568126b8b4540936400b8163d2ad25cff5f2adf902"
-metafile = true
-
-[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "99ae3a898041d9e7b6d2de55909287baacd6f71846e44f61f6a9420587fd7a09"
 metafile = true
 
 [[files]]
-file = "mods/terralith.pw.toml"
-hash = "e4ec2a3489da9a8cf2b16abfbca6d62ef3dd0c6112d16d939641c16c5a796bea"
+file = "mods/travelers-backpack-fabric.pw.toml"
+hash = "5c43f05a0ac7a9d72edb10bd0e91d1fe111605a7e37da10f503f9e7c28ca8855"
 metafile = true
 
 [[files]]
