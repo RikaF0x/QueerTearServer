@@ -361,11 +361,6 @@ hash = "c0e1d11ad52b0fb88617f0380d0e340dc1d0d0962c8f000bbad559441e8ad222"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delight-fabric.pw.toml"
-hash = "72cc5d492b49c72c87da9629cd51e7240abae422784fef925872a0d4187c4932"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "2bd34b05c6028e28476426b00166378845aac5c0cbbcadf72f94d31f7754ab67"
 metafile = true
