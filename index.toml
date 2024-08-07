@@ -421,8 +421,8 @@ hash = "9937445db1c1c6212db8705d57e5156efba1b152b616aa0e8c48e588ff67249c"
 metafile = true
 
 [[files]]
-file = "mods/hephaestus-fabric.pw.toml"
-hash = "457b1ace30879d22e9f881f3b3701071648d7988f189a0f11c3a0f56f8e8205e"
+file = "mods/hephaestus.pw.toml"
+hash = "a956c6e7dea778d088b0059ba7019c139b9477d80bab38a22fa00e4b984a94af"
 metafile = true
 
 [[files]]
