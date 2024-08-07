@@ -86,8 +86,9 @@ hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
-file = "mods/clover-2024.0714.jar"
-hash = "e456cbafedf1353f7110cbbf526073bd036b3985f97f101fa574ba6daac7db8a"
+file = "mods/charm.pw.toml"
+hash = "e5a9f96b94726f4585cf91fa0ddbd81e353f85f6f6723a2b4f01bf05c8dfd4a8"
+metafile = true
 
 [[files]]
 file = "mods/coins-arise.pw.toml"
@@ -162,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/create-deco-additions.pw.toml"
 hash = "921ba7285e115d4ddb84cfdcd15bb20c51dea1da850e8b1fd11856faf264b952"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry-fabric.pw.toml"
+hash = "da0b1e65c3bb9f9eabfbaf4242b3adf22267752adb3824fe62b24077cf458340"
 metafile = true
 
 [[files]]
@@ -253,10 +259,6 @@ metafile = true
 file = "mods/create-structures.pw.toml"
 hash = "f0323722f66e5b288875294fb083404998a5891751e9460c1f4a4f44626bcc2c"
 metafile = true
-
-[[files]]
-file = "mods/create-train-perspective-0.5.0+mc1.20.1.jar"
-hash = "24a43938319563b73a2e28493c5b35611e71e8730acf862297f474ddb4db8317"
 
 [[files]]
 file = "mods/create-trimmed.pw.toml"
@@ -441,6 +443,11 @@ hash = "7e8159e10a7433daffd11b7af2578a217bbf5c22937da6577250ff3850d12702"
 metafile = true
 
 [[files]]
+file = "mods/immersive-portals-continued.pw.toml"
+hash = "537931e9e7e54fb0801417349b9f0f99824811f1a4c54ed94764f6853a5393b1"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
 metafile = true
@@ -586,6 +593,11 @@ hash = "e09b4e3348ee5e8b836e40ea4745bf3ab0d584512e31166ab34a219c437a736a"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "db2ef0d18557d56570c504142912af0d519814bf047165aa04bf24bddf026fdc"
 metafile = true
@@ -636,6 +648,11 @@ hash = "d4ce2e907ac37eb1c7d4232354fa28e1a2bb9e00999ae6811e5fc587824132e2"
 metafile = true
 
 [[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "d4ce2e907ac37eb1c7d4232354fa28e1a2bb9e00999ae6811e5fc587824132e2"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "97e82bdfb6735a8eed7f0a4727290d7cc2d3f7b2d4bf2d6a5ff4c7e34fea9513"
 metafile = true
@@ -663,6 +680,16 @@ metafile = true
 [[files]]
 file = "mods/storage-delight.pw.toml"
 hash = "d1ff3f2314600a2d9c32f7020bc5ac6a92783d20087b77e609d03f38668dfc00"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "27c9ee50e624c436e1bb6fe4bbeff166f5c6564e9f9a846ffef22e54a200c603"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-fabric.pw.toml"
+hash = "6fbcbd33edab029f2bdab8c4086d8eaefc1898d3e6f3ede884f890e4f17e93b0"
 metafile = true
 
 [[files]]
