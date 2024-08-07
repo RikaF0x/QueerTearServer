@@ -190,21 +190,6 @@ hash = "c2b7d1b3f829c170f97c2410cf71077dccbc107287e9ff7db58a74fa9576d0f4"
 metafile = true
 
 [[files]]
-file = "mods/create-food.pw.toml"
-hash = "29441fd308425c08493976be5282ed60513a0514c72a32717dac202b223994d9"
-metafile = true
-
-[[files]]
-file = "mods/create-framed.pw.toml"
-hash = "06ffe09b286f4833c92d060393fff6de101a249b7e112e149892947d699a6012"
-metafile = true
-
-[[files]]
-file = "mods/create-garnished.pw.toml"
-hash = "96c33412dd1ecc6b280019549987facfda77789975920e714ecff00c5963efcb"
-metafile = true
-
-[[files]]
 file = "mods/create-goggles.pw.toml"
 hash = "63181126ca8ff3989e9a0e91ce01121545e26e4a9ca8cbe4e6681395c92b1edd"
 metafile = true
