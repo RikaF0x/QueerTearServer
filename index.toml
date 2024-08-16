@@ -16,6 +16,11 @@ hash = "ea9c9695bf4a5d371600366a3f24912042e09b6295a00eab6eaafddd598ec4bb"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "fe48ef33fd4a8d8580fd938b7a6a7c1175aad76e0df0ddf4c12e7acb2f0ea65a"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "c0fb764563c122328f9ba69e7d27c2b3b2e21fc607782affd6710b943f03fe75"
 metafile = true
@@ -296,6 +301,11 @@ hash = "a36c65979c1ad3234d90a43ddd20f534b9c6d72a33f59b5a346dbe54435b8bc6"
 metafile = true
 
 [[files]]
+file = "mods/death-xp-penalty.pw.toml"
+hash = "40a209a6573c2e7dd58d473614a6737f1299b23c20dfa80cbd551e4812aec01d"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
 metafile = true
@@ -436,6 +446,11 @@ hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
 metafile = true
 
 [[files]]
+file = "mods/integrated-circuit.pw.toml"
+hash = "ed901aa99358c93e181d7b4e3a6f2b7fa567584abc43ac79678d241e8f580cf0"
+metafile = true
+
+[[files]]
 file = "mods/interiors.pw.toml"
 hash = "957fccf5d7bb580339b0ac2b8de2986415ef83fe297963e888e97d2063afefc3"
 metafile = true
@@ -498,6 +513,11 @@ metafile = true
 [[files]]
 file = "mods/language-reload.pw.toml"
 hash = "863c7625ed377ba905368ec8cb50a29d2ad23c833b50d7808f933aecbe1bcad4"
+metafile = true
+
+[[files]]
+file = "mods/led.pw.toml"
+hash = "d387f6ab4b0e42aa5f531e62a7c5cb59a61b6280dcd52beaba2329bc5422b7ee"
 metafile = true
 
 [[files]]
@@ -651,6 +671,11 @@ hash = "e08fdeed1d56d03938bc66e2f34fefe5df150afb6e8ec4d318f354d6413ec0ba"
 metafile = true
 
 [[files]]
+file = "mods/red-bits.pw.toml"
+hash = "1a3e1d2dc9eb9de82f385b04dc400c28bda872a4bbe319ebf48029989972d9ac"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "44b0a2294e1693230308e53b529d671a0303e94b623ba2c2650cdf5760a5a335"
 metafile = true
@@ -683,6 +708,16 @@ metafile = true
 [[files]]
 file = "mods/sc-peripherals.pw.toml"
 hash = "666bb36c42a08f6f34ac4ed954f95222ba690a6380062b740b602abe8f21901c"
+metafile = true
+
+[[files]]
+file = "mods/shimmer!.pw.toml"
+hash = "cb34018299213e45dbe5b84c99a78be891653e335cb973761a698c93ffb98e6b"
+metafile = true
+
+[[files]]
+file = "mods/shimmer-support-layer.pw.toml"
+hash = "dd8f6d5e7442e4ea51e0a0338ed555f804153750bb46e13234a36aa405e6b5c1"
 metafile = true
 
 [[files]]
