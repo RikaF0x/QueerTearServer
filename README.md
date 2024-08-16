@@ -16,12 +16,13 @@ QueerTear community, hosters and contributors! 💜
 ## TODO
 
 - [ ] link branches in README.md/Branches
-- [ ] Add WAILA
+- [X] Add WAILA
 - [ ] Add basic configs (Quilt Loading Screen ofc)
 - [ ] Add GregTech
 - [ ] Add Mekanism
 - [ ] Sort thru all the create add-ons that duplicate funcionality
 - [ ] Drop fabric
 - [ ] Add deployment on push
-- [ ] Playtest
+- [ ] Playtest:
+    - [x] Public alpha
 - [ ] Balance
