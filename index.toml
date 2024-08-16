@@ -76,6 +76,16 @@ hash = "b3503cb0b7eae56e27e1d7980882795c0b81f4750ec9b140beb996a9d7c0dfb3"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "8b4722a423acf71474ec970b2bfb6f2044b9eb0d18d69db466fe6d4594976299"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "d94da74c5f4dce9b7b6586f04b3bfe99ff2b2b5298258b8ab9b111c1c126bb67"
+metafile = true
+
+[[files]]
 file = "mods/chefs-delight.pw.toml"
 hash = "9c165d9011d59231aedd5ae90da51ffddc8a3e9ec77779a0050d400b097633f4"
 metafile = true
@@ -276,6 +286,11 @@ hash = "2669ee304ddaa3bc3879c25147b12fa382b6baa1cc75153639d33d8f954b9f83"
 metafile = true
 
 [[files]]
+file = "mods/ducky-periphs.pw.toml"
+hash = "ad0b1c92bf3db21f58b6c609e2da6cd303afedda9973000456e7e3886f906e89"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "f5d8a651b47a81124453d87d8ab1858e64d378a1b90feac161cb77f8f7ab27c1"
 metafile = true
@@ -371,6 +386,11 @@ hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+metafile = true
+
+[[files]]
 file = "mods/fps-reducer.pw.toml"
 hash = "218e90890e951c0d0b42a56b29c46baf11a391cdbf3ae4af65287f6720d324a1"
 metafile = true
@@ -428,6 +448,16 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "c43375da9a71c4a51f171be02d148cc6e7d22b0b1294fed996d88616b4184aa1"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "f3a2939a893321067f5700c2e25c0c48fc1f9d39dd925449865c90597d65df1b"
+metafile = true
+
+[[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "4afe7e22d442967a2f12e199a745dab6855daa10029df129c270ee5a7b40c330"
 metafile = true
 
 [[files]]
@@ -516,6 +546,11 @@ hash = "979e6d73369f2e45666e49c387f7f4f9b266df1085d4a7a949039aac461b3c13"
 metafile = true
 
 [[files]]
+file = "mods/night-auto-config.pw.toml"
+hash = "926d74b901c84022a77b6a1f640fe27904e0865c4f73a9cb7157588233efebea"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
@@ -551,8 +586,18 @@ hash = "db2ef0d18557d56570c504142912af0d519814bf047165aa04bf24bddf026fdc"
 metafile = true
 
 [[files]]
+file = "mods/peripheralium.pw.toml"
+hash = "742e78218a61690111250f6df25c84e0385813957b269129faa9524414edaae7"
+metafile = true
+
+[[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "22a206c019b90be7f15dbf7efeacdb74a7cbc58d5eea84650e80b54f828acb0b"
+metafile = true
+
+[[files]]
+file = "mods/plethora-peripherals.pw.toml"
+hash = "634e9ad89419dd15aeffcaabe46396d00753e8bcb68a7e2c318061100a5ec10f"
 metafile = true
 
 [[files]]
@@ -581,6 +626,11 @@ hash = "44b0a2294e1693230308e53b529d671a0303e94b623ba2c2650cdf5760a5a335"
 metafile = true
 
 [[files]]
+file = "mods/rei-collapsible-entries.pw.toml"
+hash = "630cb17ea4316427433060348cf859dea3c0a597ed637b27319a9ec35edeea37"
+metafile = true
+
+[[files]]
 file = "mods/rei.pw.toml"
 hash = "f6bab22238c39308fc1824e9bcecb9ab530c080ce1dc30c7337802ef3e00a481"
 metafile = true
@@ -593,6 +643,16 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "062e145a4c182959dc44f1fe531514191692ed6088ee5b307143a81ec39d9c70"
+metafile = true
+
+[[files]]
+file = "mods/sc-goodies.pw.toml"
+hash = "ec72896188d6be1dd6a57912f77b33ad81d9bdd5b3c825f61e3e44052b3347a7"
+metafile = true
+
+[[files]]
+file = "mods/sc-peripherals.pw.toml"
+hash = "666bb36c42a08f6f34ac4ed954f95222ba690a6380062b740b602abe8f21901c"
 metafile = true
 
 [[files]]
@@ -663,6 +723,16 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
+metafile = true
+
+[[files]]
+file = "mods/turtlematic.pw.toml"
+hash = "10406ceb652b089dd757560a06f70189f967c9594bc694706106b96786b342a5"
+metafile = true
+
+[[files]]
+file = "mods/unlimitedperipheralworks.pw.toml"
+hash = "bd59204f2c5c87ca2cfd5ea291d1cf89d18e1e6f281eeeb4f0f2ea7b08d0bb9a"
 metafile = true
 
 [[files]]
