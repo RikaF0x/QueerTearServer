@@ -1,0 +1,13 @@
+name = "Chubby Blåhaj | not only anymore!"
+filename = "jdk_chubby_blahaj-1.3a.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Pc3b18VU/versions/Ie4MWt7N/jdk_chubby_blahaj-1.3a.jar"
+hash-format = "sha1"
+hash = "373725c5754dfdcd5b4744bf5856eda1a7f92e36"
+
+[update]
+[update.modrinth]
+mod-id = "Pc3b18VU"
+version = "Ie4MWt7N"
