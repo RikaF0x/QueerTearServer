@@ -652,7 +652,7 @@ metafile = true
 
 [[files]]
 file = "mods/plethora-peripherals.pw.toml"
-hash = "634e9ad89419dd15aeffcaabe46396d00753e8bcb68a7e2c318061100a5ec10f"
+hash = "8b8883586b05aa00808e41a5795f4287bf7c43f44484c2cdf62762e32e00acfb"
 metafile = true
 
 [[files]]
@@ -707,12 +707,12 @@ metafile = true
 
 [[files]]
 file = "mods/sc-goodies.pw.toml"
-hash = "ec72896188d6be1dd6a57912f77b33ad81d9bdd5b3c825f61e3e44052b3347a7"
+hash = "768dad9880b43ed766496fcfda324f95a612a2edb38c857cbbca81b5002bc7aa"
 metafile = true
 
 [[files]]
 file = "mods/sc-peripherals.pw.toml"
-hash = "666bb36c42a08f6f34ac4ed954f95222ba690a6380062b740b602abe8f21901c"
+hash = "7c1b7a3e2d752ff651e204444dd340d5943a1be6f0832f72a8cb3d510c428b02"
 metafile = true
 
 [[files]]
