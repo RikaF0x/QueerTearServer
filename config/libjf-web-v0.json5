@@ -1,0 +1,12 @@
+{
+  // The public IP/host name to send to clients
+  serverIp: "http://127.0.0.1",
+  // The port to host content on
+  port: 35535,
+  // The port to send to clients (for reverse proxies, -1 to disable)
+  portOverride: -1,
+  // The maximum number of concurrent connections to this server
+  maxConnections: 20,
+  // Whether files from config/wwwroot should be hosted as static resources
+  enableFileHost: false
+}

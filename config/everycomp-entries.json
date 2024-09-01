@@ -1,0 +1,43 @@
+{
+  "#README": "This config file does not support comments. To see them configure it in-game using YACL or Cloth Config",
+  "types": {
+    "wood_type": {
+      "bewitchment.juniper": true,
+      "bewitchment.cypress": true,
+      "bewitchment.elder": true,
+      "bewitchment.dragons_blood": true,
+      "tconstruct.greenheart": true,
+      "tconstruct.skyroot": true,
+      "tconstruct.bloodshroom": true,
+      "garnished.sepia": true,
+      "garnished.nut": true,
+      "create_dd.rose": true,
+      "create_dd.smoked": true,
+      "create_dd.spirit": true,
+      "create_dd.rubber": true
+    },
+    "leaves_type": {
+      "bewitchment.juniper": true,
+      "bewitchment.cypress": true,
+      "bewitchment.elder": true,
+      "bewitchment.dragons_blood": true,
+      "sc-goodies.sakura": true,
+      "sc-goodies.maple": true,
+      "sc-goodies.blue": true,
+      "tconstruct.earth_slime": true,
+      "tconstruct.sky_slime": true,
+      "tconstruct.ender_slime": true,
+      "culturaldelights.fruiting_avocado": true,
+      "culturaldelights.avocado": true,
+      "create_dd.rubber": true
+    }
+  },
+  "entries": {
+    "wood_type": {
+      "farmersdelight.cabinet": true,
+      "create.window_pane": true,
+      "create.window": true
+    },
+    "leaves_type": {}
+  }
+}
