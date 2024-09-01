@@ -457,6 +457,10 @@ file = "config/quilt/qsl/registry.toml"
 hash = "77911d9f201ecb0eecb3ba0394855983386094e45e3794ad74f6d74985a6d2ec"
 
 [[files]]
+file = "config/quilt_loading_screen.json"
+hash = "883fa4a74c3e57fa61409462991e00911745d3049c60d466fa9b0aff0dfe29bb"
+
+[[files]]
 file = "config/railways-client.toml"
 hash = "b71a55c298472d02e9d60b3003640d3cbaf96d49e16c4fc228447fb444ab6247"
 
