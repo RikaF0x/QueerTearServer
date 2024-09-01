@@ -696,11 +696,6 @@ hash = "768dad9880b43ed766496fcfda324f95a612a2edb38c857cbbca81b5002bc7aa"
 metafile = true
 
 [[files]]
-file = "mods/sc-peripherals.pw.toml"
-hash = "7c1b7a3e2d752ff651e204444dd340d5943a1be6f0832f72a8cb3d510c428b02"
-metafile = true
-
-[[files]]
 file = "mods/shimmer!.pw.toml"
 hash = "cb34018299213e45dbe5b84c99a78be891653e335cb973761a698c93ffb98e6b"
 metafile = true
