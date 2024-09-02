@@ -1231,16 +1231,6 @@ hash = "768dad9880b43ed766496fcfda324f95a612a2edb38c857cbbca81b5002bc7aa"
 metafile = true
 
 [[files]]
-file = "mods/shimmer!.pw.toml"
-hash = "cb34018299213e45dbe5b84c99a78be891653e335cb973761a698c93ffb98e6b"
-metafile = true
-
-[[files]]
-file = "mods/shimmer-support-layer.pw.toml"
-hash = "dd8f6d5e7442e4ea51e0a0338ed555f804153750bb46e13234a36aa405e6b5c1"
-metafile = true
-
-[[files]]
 file = "mods/skinrestorer.pw.toml"
 hash = "d4ce2e907ac37eb1c7d4232354fa28e1a2bb9e00999ae6811e5fc587824132e2"
 metafile = true
