@@ -11,3 +11,8 @@ hash = "02fdfa8eab9fb261c0681d86d1d91b3a2fe16cb6"
 [update.modrinth]
 mod-id = "uLbm7CG6"
 version = "kO9nUBoX"
+
+[option]
+optional = true
+default = true
+description = "fast language reload"

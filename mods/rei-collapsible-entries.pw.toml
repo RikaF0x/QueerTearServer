@@ -11,3 +11,8 @@ hash = "4c41cfd2fa83e92ce0c6ef93ad3b104e32ccba5f"
 [update.modrinth]
 mod-id = "lvuenewC"
 version = "3X1XW7t0"
+
+[option]
+optional = true
+default = true
+description = "makes alike items appeas as collapsable groups in rei"

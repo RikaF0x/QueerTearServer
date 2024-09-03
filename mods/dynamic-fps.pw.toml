@@ -11,3 +11,8 @@ hash = "aa943b283d715bb9a70abfbc0f1b00ddc244106a"
 [update.modrinth]
 mod-id = "LQ3K71Q1"
 version = "D4YOJGoV"
+
+[option]
+optional = true
+default = true
+description = "lower cpu usage(volume and notifications too!) when minecraft is in background"

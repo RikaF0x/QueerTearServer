@@ -11,3 +11,8 @@ hash = "1fdc0084f5c9c3e304f424bc98af3199626cc285"
 [update.modrinth]
 mod-id = "nrJ2NpD0"
 version = "re35cvGC"
+
+[option]
+optional = true
+default = false
+description = "music streaming control"

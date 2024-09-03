@@ -11,3 +11,8 @@ hash = "505b27e4e902645d8104133a2a5d9ea409b645b1"
 [update.modrinth]
 mod-id = "uEfK2CXF"
 version = "9HWvOVzO"
+
+[option]
+optional = true
+default = true
+description = "oregen addon for jei"

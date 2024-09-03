@@ -11,3 +11,8 @@ hash = "630929295ee7342b8db23aabfafbe421dcdb36d2"
 [update.modrinth]
 mod-id = "izsIPI7a"
 version = "T8q9vcAz"
+
+[option]
+optional = true
+default = false
+description = "a fast shader with screenspace reflections support"

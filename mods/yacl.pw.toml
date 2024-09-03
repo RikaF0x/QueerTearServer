@@ -11,3 +11,8 @@ hash = "48005e145f5423ff9446ac6fe3d1cb122f977a00"
 [update.modrinth]
 mod-id = "1eAoo2KR"
 version = "gQuF6HNa"
+
+[option]
+optional = true
+default = true
+description = "dependency of zoomify"

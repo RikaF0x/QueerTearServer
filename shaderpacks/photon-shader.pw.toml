@@ -11,3 +11,8 @@ hash = "93f7e3bd9c24d2bd91dafd130a891aabd79fa9ee"
 [update.modrinth]
 mod-id = "lLqFfGNs"
 version = "Dn4cGSpn"
+
+[option]
+optional = true
+default = false
+description = "shaders with yummy clouds and sky(they are different each day!!!). supports screenspace reflections"

@@ -11,3 +11,8 @@ hash = "80cbd93157f5d9a1f7b2e4f8d24bdef312d5a378"
 [update.modrinth]
 mod-id = "9Pk89J3g"
 version = "muRhp5Vl"
+
+[option]
+optional = true
+default = true
+description = "breeding addon for jei"

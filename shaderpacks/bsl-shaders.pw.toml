@@ -11,3 +11,8 @@ hash = "cd92bf706a1347a2d2943b14391ffbe1233415bc"
 [update.modrinth]
 mod-id = "Q1vvjJYV"
 version = "c6RfHyKW"
+
+[option]
+optional = true
+default = false
+description = "one of the most popular shaders. supports screenspace reflections"

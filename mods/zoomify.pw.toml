@@ -11,3 +11,8 @@ hash = "75d8785b79cd2333f4d1d326da55ba5fc6372f8d"
 [update.modrinth]
 mod-id = "w7ThoJFB"
 version = "gZr7EykF"
+
+[option]
+optional = true
+default = true
+description = "zoom. duh."

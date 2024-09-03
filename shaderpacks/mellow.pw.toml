@@ -11,3 +11,8 @@ hash = "c9f974df5adb774c05b140fd7aac95b73ed799b3"
 [update.modrinth]
 mod-id = "BUxf36AP"
 version = "prgR7ENj"
+
+[option]
+optional = true
+default = false
+description = "minimal, artistic, and performant shaders. supports reflections"

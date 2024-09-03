@@ -11,3 +11,8 @@ hash = "fdd6e230c712ee9c4b637d73bccd21bc8ed3a7c3"
 [update.modrinth]
 mod-id = "ZP7xHXtw"
 version = "VHNE9K3D"
+
+[option]
+optional = true
+default = true
+description = "removes reloading screens. duh."

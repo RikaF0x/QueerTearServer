@@ -11,3 +11,8 @@ hash = "11c22bb87b55a7991663f2187490b25ea9c9f698"
 [update.modrinth]
 mod-id = "YL57xq9U"
 version = "ogjxrwGQ"
+
+[option]
+optional = true
+default = false
+description = "shader support"

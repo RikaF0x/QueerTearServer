@@ -11,3 +11,8 @@ hash = "75554b02e63a2440321a32dc5e55988897181bdf"
 [update.modrinth]
 mod-id = "QdG47OkI"
 version = "GkLb4bRl"
+
+[option]
+optional = true
+default = true
+description = "fixes a visual bug"

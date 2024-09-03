@@ -11,3 +11,8 @@ hash = "12ac6dfd44286de4062fdb11ed02b6a6891551de"
 [update.modrinth]
 mod-id = "nvQzSEkH"
 version = "vlM1OUBd"
+
+[option]
+optional = true
+default = true
+description = "WAILA-like mod"

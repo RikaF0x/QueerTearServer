@@ -11,3 +11,8 @@ hash = "b9db999ceb21575e2399c6ecaee1259aa29bf6c5"
 [update.modrinth]
 mod-id = "nfn13YXA"
 version = "pRJse6co"
+
+[option]
+optional = true
+default = true
+description = "a jei-like mod"

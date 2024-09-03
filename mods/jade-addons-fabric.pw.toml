@@ -11,3 +11,7 @@ hash = "aecf3831485f730d557e100e4b925054c1124835"
 [update.modrinth]
 mod-id = "fThnVRli"
 version = "u3SyDUBp"
+
+[option]
+optional = true
+default = true

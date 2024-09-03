@@ -11,3 +11,8 @@ hash = "d50df4ee18ca3f77638ba41c30e24fb451540596"
 [update.modrinth]
 mod-id = "sclYVqbt"
 version = "beIa32Ja"
+
+[option]
+optional = true
+default = false
+description = "realistic shaders with cool lighting"
