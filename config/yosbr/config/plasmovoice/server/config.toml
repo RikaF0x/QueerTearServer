@@ -1,14 +1,14 @@
 # Used to store server-related config file on the client
 # Set it to a single value on different servers if you want them to share config
-server_id = "8e545801-fd8c-4747-aadf-89cfad44903c"
+server_id = "af348538-cd57-49a8-a2ee-d7cbd2f4c9a8"
 default_language = "en_us"
 debug = false
 disable_crowdin = false
 check_for_updates = true
 
 [host]
-ip = "0.0.0.0"
-port = 0
+ip = "127.0.0.1" #TODO
+port = 7339
 
 [voice]
 # Supported sample rates:
