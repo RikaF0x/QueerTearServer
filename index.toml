@@ -94,7 +94,7 @@ hash = "eb7fbbf671c247286fd9d3c52a43142da7e65dfb53c08163e0742b2979f3ca24"
 
 [[files]]
 file = "config/yosbr/config/bluemap/webserver.conf"
-hash = "420b13227864623ff9e5f200ebba4c1a10f05a4ca40539dbefdfc9e23cdf78f2"
+hash = "a315ab413e6acafa56592e24e2eb5b8546833d77123ace620fa262a1b5215073"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
@@ -142,7 +142,7 @@ hash = "71b561a2ea32ef8b54a21408370034445cf288dd566bc6fe6d7266b05111373b"
 
 [[files]]
 file = "config/yosbr/config/create-track-map.json"
-hash = "edd44548fb8d423d67083a4bed6c12c8bd87e56f927141f58061d1ef804f670f"
+hash = "370de75f5b4b0e8db5a4270806720f880f87829a283b7f073c5bbd1df008f0b3"
 
 [[files]]
 file = "config/yosbr/config/create-train-perspective.json"
@@ -390,7 +390,7 @@ hash = "53559aa4184132cac9450c3e76b7bcacf87d63e2d4f141d9581db858190bd46c"
 
 [[files]]
 file = "config/yosbr/config/libjf-web-v0.json5"
-hash = "98f78f40683128c6d7dc0cb73727b7c2d4e27090c4dad484dbc60c7fca9fdddb"
+hash = "92e3d3e5befa2b7df4cd1919497cec0527188e703b1b7f3fb67bed73c1fb4c69"
 
 [[files]]
 file = "config/yosbr/config/lithium.properties"
@@ -1490,7 +1490,7 @@ metafile = true
 
 [[files]]
 file = "servers.dat"
-hash = "8791577cbb817ba3438d67ea0624917c893e5a0e79ee563bec05970ce4bf08f6"
+hash = "4a3f8ac8f7992305a021475ec2c6ad96dd23fce94943e1394e5ea69db794d724"
 
 [[files]]
 file = "shaderpacks/bliss-shader.pw.toml"
