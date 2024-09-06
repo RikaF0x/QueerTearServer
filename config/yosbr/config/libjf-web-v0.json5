@@ -1,6 +1,6 @@
 {
-  serverIp: "http://127.0.0.1",
-  port: 35535,
+  serverIp: "http://gnuli.nex.sh",
+  port: 7341,
   portOverride: -1,
   maxConnections: 20,
   enableFileHost: false
