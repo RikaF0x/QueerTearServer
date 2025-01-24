@@ -735,7 +735,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
+hash = "01d8bbe5839913d9eeaf7691ed1ea564c3026399ee39d70f3975e1d770e4c67f"
 metafile = true
 
 [[files]]
@@ -1130,7 +1130,7 @@ metafile = true
 
 [[files]]
 file = "mods/foodeffecttooltips.pw.toml"
-hash = "abdc7611032f8df479bd8c689242f5e6eac355823fe2ee3bfda6224e363d3774"
+hash = "2086c337643c04cb6f90b70794671df7dc8ace508ec23a9fd3e34ebd64ffc329"
 metafile = true
 
 [[files]]
