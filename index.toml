@@ -734,6 +734,11 @@ hash = "852bd0b1aefcffdc15311cb1822a65840a7a8f54b879c32373f0906ba11efb41"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
@@ -1121,6 +1126,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
+metafile = true
+
+[[files]]
+file = "mods/foodeffecttooltips.pw.toml"
+hash = "abdc7611032f8df479bd8c689242f5e6eac355823fe2ee3bfda6224e363d3774"
 metafile = true
 
 [[files]]
